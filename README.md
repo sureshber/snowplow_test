@@ -58,6 +58,6 @@ All data good/bad from kinesis are validated through data contracts and validato
 - **Silver Layer (Iceberg):** Data is deduplicated, cleaned, and transformed for analysis.  
 - **Gold Layer (Redshift/Iceberg):** Aggregated tables are created for key business metrics.  
 
-### 3️⃣ Aggregations & Insights  
+### Aggregations & Insights  
 - **Daily Active Users (DAU), Monthly Active Users (MAU)** calculations (on lake/redshift)  
 - **Real-time marketing intelligence & personalization use cases.**  

@@ -8,6 +8,7 @@ This repository contains an end-to-end **real-time data pipeline** that collects
 
 ## Architecture Diagram  
 
+![Architecture Diagram] (https://github.com/sureshber/snowplow_test/issues/1#issue-2879613248)
 
 ---
 

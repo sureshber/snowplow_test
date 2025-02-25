@@ -12,10 +12,10 @@ This repository contains an end-to-end **real-time data pipeline** that collects
 ---
 
 ## Key Features  
-**Near Real-Time Processing:** Snowplow collects, validates, enriches events that are sent to AWS Kinesis streams via Firehose
-**Cost Optimization:** Uses AWS S3 for cost-effective storage and Apache Iceberg for efficient data querying.  
-**ETL Orchestration:** Apache Airflow automates workflows across the data pipeline.  
-** Analytics:** Aggregated metrics like DAU, MAU, retention, and funnel analysis can be calculated both in Gold layer in lake and also in microbatched/batched data in Redshift
+- **Near Real-Time Processing:** Snowplow collects, validates, enriches events that are sent to AWS Kinesis streams via Firehose
+- **Cost Optimization:** Uses AWS S3 for cost-effective storage and Apache Iceberg for efficient data querying.  
+- **ETL Orchestration:** Apache Airflow automates workflows across the data pipeline.  
+- **Analytics/metrics/kpis":** Aggregated metrics like DAU, MAU, retention, and funnel analysis can be calculated both in Gold layer in lake and also in microbatched/batched data in Redshift
 
 ---
 
